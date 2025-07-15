@@ -1,0 +1,22 @@
+WORKING
+Temperature sensor and its output. 
+
+
+The Temperature sensor takes in input and when the temperature increases, the voltage increases, and hence the output initiates the functioning of the Buzzer. For every one degree increase in temperature, there is a 10mV increase in the voltage.
+ Gas sensor and its output
+
+
+
+
+A gas sensor is also used to detect smoke along with the concentration of gases. Based on the type of gas present in the atmosphere, a potential difference is developed by changing the Resistance of the material present inside the sensor and the same is measured as output.
+The Concentration of the gas is measured in ppm and the output analog value is needed to be converted into digital which is done by the #ADC (Analog to Digital Converter) present in the sensor itself. Based on the condition given in the code, the LED glows or remains OFF.
+
+
+BENEFITS OF FIRE AND SMOKE ALARM:
+
+
+Faster response times from emergency services
+Detection of fire in isolated areas
+Better planning in case of a necessary evacuation
+Meet regional health and safety codes
+Keep essential operational asset
